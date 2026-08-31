@@ -1,8 +1,8 @@
 package controller;
 
-import gui.ShopGUI;                // Imports the GUI
-import database.DatabaseManager;   // Imports the Database
-import model.Transaction;          // Imports the Transaction model
+import gui.ShopGUI;               
+import database.DatabaseManager;  
+import model.Transaction;          
 import javax.swing.*;
 import java.awt.Color;
 import java.awt.event.*;
