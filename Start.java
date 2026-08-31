@@ -1,6 +1,6 @@
-import gui.ShopGUI;                // Imports the GUI
-import database.DatabaseManager;   // Imports the Database
-import controller.ShopController;  // Imports the Controller
+import gui.ShopGUI;         
+import database.DatabaseManager;   
+import controller.ShopController;  
 
 public class Start 
 {
