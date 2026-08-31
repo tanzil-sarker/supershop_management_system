@@ -28,7 +28,7 @@ public class ShopGUI extends JFrame
 
     public ShopGUI() 
     {
-        super("SuperShop/Store Management System");
+        super("SuperShop Management System");
         super.setBounds(250, 80, 1100, 750);
         super.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         super.setResizable(false);
