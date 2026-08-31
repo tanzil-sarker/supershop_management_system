@@ -1,6 +1,6 @@
 package database;
 
-import model.Transaction; // Imports the Transaction model
+import model.Transaction;
 import javax.swing.*;
 import java.io.*;
 
