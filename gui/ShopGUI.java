@@ -232,7 +232,7 @@ public class ShopGUI extends JFrame
         panel.add(searchField);
 
         statusLabel = new JLabel(
-            "OOP1 Project | Group 5 | Tanzil Sarker [26-64169-1] & Shdadia Islam Humaira [25-63465-1]",
+            "Status: Ready",
             SwingConstants.CENTER
         );
         statusLabel.setBounds(0, 650, 1100, 60);
